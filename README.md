@@ -7,3 +7,5 @@ Then go to the local IP that is given to the ESP32 thing board using any webbrow
 
 ///////////////////////////////////////
 4 servo motors are onnected to the pins 14, 13, 12, and 18. The pin 5 assigned to indication LED.
+///////////////////////////////////
+I have no descriptions to make the mechanical arm, because it was done by my friend Kiran. 
